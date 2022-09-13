@@ -17,5 +17,6 @@ func main(){
 			Protein:              ProteinGram(),
 		}, Food)
 
+
    fmt.Printf("Nutritional Score:%d\n",ns.Value)
 }
